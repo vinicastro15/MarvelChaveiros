@@ -1,0 +1,40 @@
+{
+  "chaveiros": [
+    {
+      "id": 1,
+      "nome": "Chaveiro Emborrachado Mulher-Maravilha",
+      "personagem": "Mulher-Maravilha",
+      "preco": 19.90,
+      "imagem": "https://down-br.img.susercontent.com/file/5e1fb1fbb15719d77d8b40867f7e1c9a",
+      "emEstoque": true,
+      "descricao": "Chaveiro resistente em alto relevo com a máscara da Mulher-Maravilha."
+    },
+    {
+      "id": 2,
+      "nome": "Chaveiro Metálico Escudo Capitão América",
+      "personagem": "Capitão América",
+      "preco": 25.50,
+      "imagem": "https://down-br.img.susercontent.com/file/sg-11134201-22090-zwfkhnj5r1hv86",
+      "emEstoque": true,
+      "descricao": "Miniatura em liga de metal do escudo de vibranium."
+    },
+    {
+      "id": 3,
+      "nome": "Chaveiro Funko Pop Homem de Ferro",
+      "personagem": "Homem de Ferro",
+      "preco": 35.00,
+      "imagem": "https://down-br.img.susercontent.com/file/79c1ad09efb651efe3b4029dae0b36fb",
+      "emEstoque": false,
+      "descricao": "Versão miniatura estilo Funko do capacete da Mark LXXXV."
+    },
+    {
+      "id": 4,
+      "nome": " Chaveiro Pantera Negra  ",
+      "personagem": "Pantera Negra",
+      "preco": 22.90,
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivT2oHRevjp3tPljUq1OEBWDx41bf_wawGf66GbxukA&s",
+      "emEstoque": true,
+      "descricao": "Chaveiro em metal com design inspirado na Pantera Negra."
+    }
+  ]
+}
