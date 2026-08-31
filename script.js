@@ -5,7 +5,7 @@ async function carregarProdutos() {
     const vitrine = document.getElementById('vitrine');
     
     try {
-        const resposta = await fetch('../produtos.json');
+        const resposta = await fetch('produtos.json');
         
         if (!resposta.ok) {
             throw new Error('Não foi possível carregar os produtos.');
