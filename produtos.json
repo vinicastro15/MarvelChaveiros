@@ -35,6 +35,24 @@
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRivT2oHRevjp3tPljUq1OEBWDx41bf_wawGf66GbxukA&s",
       "emEstoque": true,
       "descricao": "Chaveiro em metal com design inspirado na Pantera Negra."
+    }, 
+    {
+      "id": 5,
+      "nome": "Chaveiro Funko Pop Thor",
+      "personagem": "Thor",
+      "preco": 35.00,
+      "imagem": "https://thumbor.cartpanda.com/Wjuxi3WYyeVfpBy9hLGwz7KDLak=/1024x0/https://assets.mycartpanda.com/static/products_images/tAGHmk7W8Wk0K8b1RGrE9s9M0S9kzj.jpg?v=13252247658",
+      "emEstoque": false,
+      "descricao": "Versão miniatura estilo Funko do Thor."
+    },
+    {
+      "id": 6,
+      "nome": " Chaveiro Hulk",
+      "personagem": "Hulk",
+      "preco": 22.90,
+      "imagem": "https://acdn-us.mitiendanube.com/stores/002/321/455/products/main_2_vingadores-boneca-fofa-pingente-figuras-anime-capitao-america-homem-aranha-hulk-chaveiro-saco-chaveiro-moda-presentes-de-aniversari1-d25d40a2a8e37f9ec216872940196936-1024-1024.webp",
+      "emEstoque": true,
+      "descricao": "Chaveiro em metal com design inspirado no Hulk."
     }
   ]
 }

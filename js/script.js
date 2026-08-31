@@ -1,11 +1,11 @@
-let todosOsChaveiros = []; // Variável global para armazenar os dados originais
+let todosOsChaveiros = []; 
 
 // Função assíncrona para buscar os dados no JSON
 async function carregarProdutos() {
     const vitrine = document.getElementById('vitrine');
     
     try {
-        const resposta = await fetch('produtos.json');
+        const resposta = await fetch('../produtos.json');
         
         if (!resposta.ok) {
             throw new Error('Não foi possível carregar os produtos.');
